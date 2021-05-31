@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://trenda.ghost.io",
+    "contentApiKey": "6f681e7059fb4d0eeeb18293c1"
+  },
+  "production": {
+    "apiUrl": "https://trenda.ghost.io",
+    "contentApiKey": "6f681e7059fb4d0eeeb18293c1"
+  }
+}
